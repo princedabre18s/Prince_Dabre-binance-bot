@@ -1,5 +1,4 @@
 # Ignore Python cache and environment files
 __pycache__/
 .env
-bot.log
 .DS_Store

@@ -1,0 +1,12 @@
+2025-07-08 21:47:39 - INFO - API Request: POST /fapi/v1/order, Params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2025-07-08 21:48:31 - INFO - API Request: POST /fapi/v1/order, Params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01}
+2025-07-08 21:48:32 - INFO - Order Placed: Market Buy, BTCUSDT, Qty: 0.01, Status: NEW, Order ID: 5225328466
+2025-07-08 23:03:59 - INFO - API Request: POST /fapi/v1/order, Params: {'symbol': 'ETHUSDT', 'side': 'SELL', 'type': 'MARKET', 'quantity': 0.02}
+2025-07-08 23:04:00 - INFO - Order Placed: Market Sell, ETHUSDT, Qty: 0.02, Status: NEW, Order ID: 4809085128
+2025-07-08 23:04:07 - INFO - API Request: POST /fapi/v1/order, Params: {'symbol': 'ADAUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 10.0}
+2025-07-08 23:04:08 - INFO - Order Placed: Market Buy, ADAUSDT, Qty: 10.0, Status: NEW, Order ID: 153148621
+2025-07-08 23:05:11 - INFO - API Request: POST /fapi/v1/order, Params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.01, 'price': 30000.0, 'timeInForce': 'GTC'}
+2025-07-08 23:05:12 - INFO - Order Placed: Limit Buy, BTCUSDT, Qty: 0.01, Price: 30000.0, Status: NEW, Order ID: 5226099566
+2025-07-08 23:05:18 - INFO - API Request: POST /fapi/v1/order, Params: {'symbol': 'ETHUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.05, 'price': 1800.5, 'timeInForce': 'GTC'}
+2025-07-08 23:05:25 - INFO - API Request: POST /fapi/v1/order, Params: {'symbol': 'ADAUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 100.0, 'price': 0.35, 'timeInForce': 'GTC'}
+2025-07-08 23:05:26 - INFO - Order Placed: Limit Buy, ADAUSDT, Qty: 100.0, Price: 0.35, Status: NEW, Order ID: 153149279
